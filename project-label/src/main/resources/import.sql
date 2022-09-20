@@ -1,2 +1,0 @@
-insert into Label(id, labelCode, labelDescription) values(nextval('hibernate_sequence'),'F41','Other anxiety disorders');
-insert into Label(id, labelCode, labelDescription) values(nextval('hibernate_sequence'),'J00','Acute nasopharyngitis [common cold');
